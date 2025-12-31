@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, i'm Umaim, React developer
+<h1 align="center">Hi, i'm Umaim, React developer</h1>
 
 <p align="center">
   <img src="typing-effect.gif" alt="Typing Effect" width="600"/>
