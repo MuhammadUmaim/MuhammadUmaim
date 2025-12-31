@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center" color="skyblue">Hi, i'm Umaim, React developer</h1>
+<h1 align="center" style="color: blue;">Hi, i'm Umaim, React developer</h1>
 
 
 ## 🌐 Socials:
