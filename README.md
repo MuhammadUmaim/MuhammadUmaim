@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi, i'm Umaim, React developer</h1>
+<h1 align="center" display="inline-block">Hi, i'm Umaim, React developer</h1>
 
 
 ## 🌐 Socials:
