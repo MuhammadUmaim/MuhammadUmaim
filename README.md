@@ -1,53 +1,69 @@
-# Project Title
+<!-- Animated Typing Header -->
+<h1 align="center">
+  Hi 👋, I'm Muhammad Umaim
+</h1>
 
-![Tech Stack Badge](https://img.shields.io/badge/Technology-Stack-brightgreen)
-![GitHub Stars](https://img.shields.io/github/stars/MuhammadUmaim/MuhammadUmaim?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/MuhammadUmaim/MuhammadUmaim?style=social)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Specialist;Building+Modern+Web+Experiences" />
+</p>
 
-## Description
+---
 
-A brief description of your project goes here.
+## 🚀 About Me
 
-## Tech Stack
+- 💻 Frontend Developer focused on **React & Next.js**
+- 🎯 Building scalable and responsive web applications
+- 📚 Currently improving **TypeScript & MERN Stack**
+- 🌍 Based in Pakistan
+- 🔥 Passionate about UI/UX & clean architecture
 
-- **Language**: JavaScript
-- **Framework**: React, Node.js
-- **Database**: MongoDB
+---
 
-## Installation
+## 🛠 Tech Stack
 
-Instructions on how to install and run the project locally.
+### 💡 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,vite" />
+</p>
 
-```bash
-# Clone the repository
-$ git clone https://github.com/MuhammadUmaim/MuhammadUmaim.git
+### ⚙ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
+</p>
 
-# Navigate to the folder
-$ cd MuhammadUmaim
+### 🧰 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,elementor,wordpress" />
+</p>
 
-# Install dependencies
-$ npm install
-```
+---
 
-## Usage
+## 📊 GitHub Analytics
 
-Provide examples for using your project.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUmaim&show_icons=true&theme=transparent&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/MuhammadUmaim&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-## Statistics
+---
 
-- Stars: X
-- Forks: Y
-- Issues: Z
+## 🌐 Connect With Me
 
-## Achievements
+<p align="center">
+  <a href="www.linkedin.com/in/muhammad-umaim">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/Muhammad_Umaim">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="mailto:muhammadumaim7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-List any achievements, awards, or recognitions you have received.
+---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thank you to everyone who has contributed to this project!
-- References to any resources, libraries, or tools you used.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadUmaim&label=Profile+Views&color=0A66C2&style=flat" />
+</p>
